@@ -8,5 +8,11 @@ namespace myfirstclass
 {
     class Class3
     {
+
+        private string property1;
     }
+
+
+
+
 }
