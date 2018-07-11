@@ -8,6 +8,12 @@ namespace myfirstclass
     class Class3
     {
 
+        private string property1;
+
         private string prop;
     }
+
+
+
+
 }
