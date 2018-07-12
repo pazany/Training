@@ -8,9 +8,19 @@ namespace myfirstclass
 {
     public class Class1
     {
+
+        private void FuncTest()
+        {
+
+        }
+        
     }
 
     private int X;
+    private int z;
+    private string r; 
 
 
+
+  
 }
