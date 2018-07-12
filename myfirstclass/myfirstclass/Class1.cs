@@ -6,7 +6,7 @@
     }
 
     private int X;
-    private int z;
+    private string z;
     private string r; 
 
   
