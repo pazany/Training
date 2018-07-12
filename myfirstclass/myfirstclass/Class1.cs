@@ -11,6 +11,7 @@ namespace myfirstclass
     }
 
     private int X;
+    private int z;
 
 
 }
