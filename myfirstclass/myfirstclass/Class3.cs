@@ -11,6 +11,8 @@ namespace myfirstclass
         private string property1;
 
         private string prop;
+
+        private int i;
     }
 
 
